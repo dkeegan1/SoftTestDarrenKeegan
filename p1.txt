@@ -43,11 +43,11 @@
  
 05-27 Nashville
  
-06-03 London
+06-03 
+
+06-04 
  
-06-04 London
- 
-06-05 London
+06-05 
  
 06-08 Stuttgart
  
@@ -89,12 +89,12 @@
  
 07-08 Rome
  
-07-17 Birmingham
+07-17 
  
-07-18 Brighton
+07-18 
  
-07-20 Glasgow
+07-20 
  
-07-21 Newcastle
+07-21 
  
 07-30 St Petersburg
